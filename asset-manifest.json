@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/krishan-sharma-portfolio/static/css/main.a617e044.chunk.css",
+    "main.js": "/krishan-sharma-portfolio/static/js/main.12c85fb1.chunk.js",
+    "main.js.map": "/krishan-sharma-portfolio/static/js/main.12c85fb1.chunk.js.map",
+    "runtime-main.js": "/krishan-sharma-portfolio/static/js/runtime-main.bcd8110d.js",
+    "runtime-main.js.map": "/krishan-sharma-portfolio/static/js/runtime-main.bcd8110d.js.map",
+    "static/js/2.3a7bbd32.chunk.js": "/krishan-sharma-portfolio/static/js/2.3a7bbd32.chunk.js",
+    "static/js/2.3a7bbd32.chunk.js.map": "/krishan-sharma-portfolio/static/js/2.3a7bbd32.chunk.js.map",
+    "static/js/3.548485c5.chunk.js": "/krishan-sharma-portfolio/static/js/3.548485c5.chunk.js",
+    "static/js/3.548485c5.chunk.js.map": "/krishan-sharma-portfolio/static/js/3.548485c5.chunk.js.map",
+    "index.html": "/krishan-sharma-portfolio/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/krishan-sharma-portfolio/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.3a7bbd32.chunk.js.LICENSE.txt": "/krishan-sharma-portfolio/static/js/2.3a7bbd32.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/krishan-sharma-portfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcd8110d.js",
+    "static/js/2.3a7bbd32.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.12c85fb1.chunk.js"
+  ]
+}
